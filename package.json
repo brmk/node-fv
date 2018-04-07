@@ -1,6 +1,6 @@
 {
   "name": "nfv",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "[Updated to use ndv package instead dv] FormVision is a node.js library for extracting data from scanned forms",
   "keywords": [
     "graphics",
