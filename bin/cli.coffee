@@ -5,7 +5,7 @@
 args = require('minimist')(process.argv[2..], boolean: true)
 glob = require 'glob'
 fs = require 'fs'
-dv = require 'dv'
+dv = require 'ndv'
 fv = require __dirname + '/../src/index'
 
 printHelp = ->

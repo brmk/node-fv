@@ -1,4 +1,4 @@
-dv = require 'dv'
+dv = require 'ndv'
 {length, distanceVector, boxDistanceVector, intersectBox, boundingBox} = require './math'
 
 # Compiles a mask with lines that have a certain length.

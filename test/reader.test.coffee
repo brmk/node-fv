@@ -1,5 +1,5 @@
 global.should = require('chai').should()
-dv = require 'dv'
+dv = require 'ndv'
 fs = require 'fs'
 
 FormReader = require '../src/form_reader'

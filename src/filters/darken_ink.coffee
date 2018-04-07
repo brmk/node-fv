@@ -1,4 +1,4 @@
-dv = require 'dv'
+dv = require 'ndv'
 
 # Darken very light ink to enhance readability.
 module.exports = (image) ->

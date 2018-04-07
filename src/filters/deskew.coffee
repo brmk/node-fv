@@ -1,4 +1,4 @@
-dv = require 'dv'
+dv = require 'ndv'
 
 # Rotates image to have less skew. Works only for a limited angle.
 module.exports = (image) ->

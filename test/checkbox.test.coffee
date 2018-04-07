@@ -1,5 +1,5 @@
 should = require('chai').should()
-dv = require 'dv'
+dv = require 'ndv'
 fs = require 'fs'
 
 {findCheckboxes} = require '../src/find_checkboxes'

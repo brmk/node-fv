@@ -1,4 +1,4 @@
-dv = require 'dv'
+dv = require 'ndv'
 async = require 'async'
 
 {findBarcodes} = require './find_barcodes'

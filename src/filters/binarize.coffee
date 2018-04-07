@@ -1,4 +1,4 @@
-dv = require 'dv'
+dv = require 'ndv'
 
 tesseractInstance = null
 

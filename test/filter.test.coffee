@@ -1,5 +1,5 @@
 should = require('chai').should()
-dv = require 'dv'
+dv = require 'ndv'
 fs = require 'fs'
 path = require 'path'
 

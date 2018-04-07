@@ -1,4 +1,6 @@
-# FormVision [![NPM version](https://badge.fury.io/js/fv.png)](http://badge.fury.io/js/fv) [![Dependency Status](https://david-dm.org/creatale/node-fv.png)](https://david-dm.org/creatale/node-fv) [![devDependency Status](https://david-dm.org/creatale/node-fv/dev-status.png)](https://david-dm.org/creatale/node-fv#info=devDependencies)
+# FormVision [![NPM version](https://badge.fury.io/js/nfv.png)](http://badge.fury.io/js/nfv) [![Dependency Status](https://david-dm.org/brmk/node-fv.png)](https://david-dm.org/brmk/node-fv) [![devDependency Status](https://david-dm.org/brmk/node-fv/dev-status.png)](https://david-dm.org/brmk/node-fv#info=devDependencies)
+
+THE ORIGINAL REPO IS https://github.com/creatale/node-fv. But it has an outdated dv dependency, so as a temporary working solution, I published this module to allow using this package with an updated dependency.
 
 FormVision is a [node.js](http://nodejs.org) library for extracting data from scanned forms.
 
@@ -12,11 +14,11 @@ FormVision is a [node.js](http://nodejs.org) library for extracting data from sc
 
 ## Installation
 
-    $ npm install fv
+    $ npm install nfv
 
 ## Quick Start
 
-Install `fv`, download [that image](https://github.com/creatale/node-fv/blob/master/test/data/m10-printed.png) and [that schema](https://github.com/creatale/node-fv/blob/master/test/data/m10-schema.json). Now run the command-line interface:
+Install `nfv`, download [that image](https://github.com/creatale/node-fv/blob/master/test/data/m10-printed.png) and [that schema](https://github.com/creatale/node-fv/blob/master/test/data/m10-schema.json). Now run the command-line interface:
 
 - Print raw data extracted from image (without matching).
     ```

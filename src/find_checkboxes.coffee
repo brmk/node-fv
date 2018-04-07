@@ -1,4 +1,4 @@
-dv = require 'dv'
+dv = require 'ndv'
 binarize = require './filters/binarize'
 
 # Width of the quiet zone around a checkbox.
